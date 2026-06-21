@@ -1,0 +1,23 @@
+{
+  "name": "devops-pipelines",
+  "version": "1.0.0",
+  "description": "Learn devops",
+  "keywords": [
+    "bruh"
+  ],
+  "homepage": "https://github.com/Sudo-devMan/Devops-pipelines#readme",
+  "bugs": {
+    "url": "https://github.com/Sudo-devMan/Devops-pipelines/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sudo-devMan/Devops-pipelines.git"
+  },
+  "license": "ISC",
+  "author": "Devman",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
